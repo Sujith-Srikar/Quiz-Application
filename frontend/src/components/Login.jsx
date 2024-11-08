@@ -3,7 +3,7 @@ import {
   IconBrandGoogle,
   IconBrandGoogleFilled,
 } from "@tabler/icons-react";
-import { Account } from "./account";
+import { Account } from "./Account";
 
 export const Example = () => {
   // you can grab url path from next/headers package in server component and insert defaultTab value based on that (if its /sign-in - 0, if it's /sign-up then 1, you got what I mean)
